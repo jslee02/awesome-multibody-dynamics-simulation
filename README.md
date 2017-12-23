@@ -41,6 +41,8 @@ A curated list of resources for multibody dynamics
 * Posing Multibody Dynamics with Friction and Contact as a Differential Complementarity Problem (2018), D. Negrut et al. [[pdf](http://sbel.wisc.edu/documents/TR-2016-12.pdf)]
 * Inverse Dynamics with Rigid Contact and Friction (2017), S. Zapolsky and E. Drumwright. [[pdf](https://arxiv.org/pdf/1509.03355.pdf)]
 * Multi-contact Frictional Rigid Dynamics using Impulse Decomposition (2017), S. Li et al. [[pdf](https://wwwx.cs.unc.edu/~geom/papers/documents/articles/2017/LiSheng_IROS_2017.pdf)]
+* SMASH: Physics-guided Reconstruction of Collisions from Videos (2017), A. Monszpart et al. [[pdf](https://arxiv.org/pdf/1603.08984.pdf)]
+* Interactive Constrained Dynamics for Rigid and Deformable Objects (2015), L. Vezzaro et al. [[pdf](https://iris.univr.it/retrieve/handle/11562/878222/23782/Vezzaro_et_al-2015-Computer_Animation_and_Virtual_Worlds.pdf)]
 
 ## Thesis
 
