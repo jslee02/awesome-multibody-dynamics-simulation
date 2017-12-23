@@ -50,6 +50,10 @@ A curated list of resources for multibody dynamics
 * Motion Planning with Sequential Convex Optimization and Convex Collision Checking (2014), J. Schulman et al. [[pdf](https://cloudfront.escholarship.org/dist/prd/content/qt6km506db/qt6km506db.pdf)] [[more](http://rll.berkeley.edu/trajopt/ijrr/)]
 * Newton-Type Algorithms for Dynamics-Based Robot Movement Optimization (2005), S.-H. Lee et al. [[pdf](https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/junggon/publications/2005_IEEE_TRO_newton-type_algorithms.pdf)]
 
+### Survey
+
+* Interactive Simulation of Rigid Body Dynamics in Computer Graphics (2014), J. Bender et al. [[pdf](https://twiki.cs.rpi.edu/twiki/pub/RoboticsWeb/LabPublications/BETCstar_part1.pdf)]
+
 ## Recent Papers
 
 
@@ -69,5 +73,6 @@ A curated list of resources for multibody dynamics
 
 * Modern Robotics: Mechanics, Planning, and Control (2017), K. Lynch and F. Park. [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
 * Numerical Methods for Linear Complementarity Problems in Physics-Based Animation (2015), S. Niebe and K. Erleben. [[pdf](http://image.diku.dk/kenny/download/erleben.13.siggraph.course.notes.pdf)]
+* Guide to Dynamic Simulations of Rigid Bodeis and Particle Systems (2012), M. Coutinho. [[web](http://www.springer.com/us/book/9781447144168)]
 * Rigid Body Dynamics Algorithms (2008), R. Featherstone. [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwihkeSup6DYAhUK8WMKHQwVBJ0QFghMMAM&url=ftp%3A%2F%2Fnozdr.ru%2Fbiblio%2Fkolxo3%2FP%2FPC%2FPCtm%2FFeatherstone%2520R.%2520Rigid%2520body%2520dynamics%2520algorithms%2520(Springer%2C%25202007)(ISBN%25200387743146)(280s)_PCtm_.pdf&usg=AOvVaw0jd-1HG_FFvl_mmMQLRHkg)]
 * A Mathematical Introduction to Robotic Manipulation (1994), R. Murray et al. [[pdf](http://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)]
