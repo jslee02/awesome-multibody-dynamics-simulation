@@ -38,6 +38,12 @@ A curated list of resources for multibody dynamics
 * Projective Dynamics: Fusing Constraint Projections for Fast Simulation (2014), S. Bouaziz el al. [[pdf](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1160&context=hms)]
 * Position Based Dynamics (2007), M. Müller et al. [[pdf](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf)]
 
+### Inverse Kinematics
+
+* FABRIK: A Fast, Iterative Solver for the Inverse Kinematics Problem (2011), A. Aristidou and J. Lasenby. [[pdf](https://s3.amazonaws.com/academia.edu.documents/35451443/FABRIK.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1514061893&Signature=6nnzM3JlrshYXYGvzvrjhAwjUZs%3D&response-content-disposition=inline%3B%20filename%3DFABRIK_A_fast_iterative_solver_for_the_I.pdf)]
+* Fast Resolution of Hierarchized Inverse Kinematics with Inequality Constraints (2010), A. Escande et al. [[pdf](https://hal.inria.fr/file/index/docid/484853/filename/2010_icra_escande.pdf)]
+* An Inverse Kinematic Architecture Enforcing an Arbitrary Number of Strict Priority Levels (2003), P. Baerlocher and R. Boulic. [[pdf](https://pdfs.semanticscholar.org/6db0/c8614005a3c9fb2b2524c228caf956cea5fd.pdf)]
+
 ## Recent Papers
 
 
