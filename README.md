@@ -18,6 +18,7 @@ A curated list of resources for multibody dynamics
 * Making a Meaningful Impact: Modelling Simultaneous Frictional Collisions in Spatial Multibody Systems (2015), T. Uchida et al. [[pdf](http://rspa.royalsocietypublishing.org/content/royprsa/471/2177/20140859.full.pdf)]
 * Quadratic Contact Energy Model for Multi-impact Simulation (2015), T. Zhang et al. [[pdf](http://or.nsfc.gov.cn/bitstream/00001903-5/344688/1/1000014372636.pdf)]
 * Reflections on Simultaneous Impact (2012), B. Smith et al. [[pdf](http://ai2-s2-pdfs.s3.amazonaws.com/8b44/61a8591456866890d27eb1fa720f24c4a176.pdf)]
+* Staggered Projections for Frictional Contact in Multibody Systems (2008), D. Kaufman et al. [[pdf](https://www.researchgate.net/profile/Doug_James/publication/220183619_Staggered_Projections_for_Frictional_Contact_in_Multibody_Systems/links/09e4150e200433ec26000000.pdf)]
 * An Implicit Time-Stepping Scheme for Rigid Body Dynamics with Inelastic Collisions and Coulomb Friction (1996), D. Stewart and J. Trinkle. [[pdf](http://www.cs.rpi.edu/~trink/Papers/STijnme96.pdf)]
 * Impulse-based Simulation of Rigid Bodies (1995), B. Mirtich and J. Canny. [[pdf](https://pdfs.semanticscholar.org/e35b/6f409bb07dbe3407c9d6949330b903d063a8.pdf)]
 
