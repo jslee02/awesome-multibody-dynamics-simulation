@@ -18,6 +18,8 @@ A curated list of resources for multibody dynamics
 
 * Discrete Geometric Optimal Control on Lie Groups (2011), M. Kobilarov and J. Marsden. [[pdf](https://pdfs.semanticscholar.org/d294/0ce9a9bb1e569cb4ebb632e07db8d3255c08.pdf)]
 * Scalable Variational Integrators for Constrained Mechanical Systems in Generalized Coordinates (2009), E. Johnson and T. Murphey. [[pdf](https://nxr.northwestern.edu/sites/default/files/publication-attachments/2009TROJoMu_expanded.pdf)]
+* Asynchronous Variational Integrators (2003), A. Lew el al. [[pdf](https://authors.library.caltech.edu/19592/1/LeMaOrWe2003.pdf)]
+* Discrete Mechanics and Variational Integrators (2001), J. Marsden and M. West. [[pdf](https://authors.library.caltech.edu/19876/1/MaWe2001.pdf)]
 
 ### Position Based Dynamics
 
