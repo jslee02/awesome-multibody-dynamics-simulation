@@ -3,7 +3,7 @@ A curated list of resources for multibody dynamics
 
 ## Papers
 
-### Lie Group Formulation
+### Geometric Formulation
 
 * A Lie Group Formulation of Robot Dynamics (1995), F. Park el al. [[pdf](http://roboticslab.snu.ac.kr/fcp/files/_pdf_files_publications/2_msd/a_lie_group_formulation_of_robot_dynamics.pdf)]
 
