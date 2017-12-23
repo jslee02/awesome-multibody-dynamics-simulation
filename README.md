@@ -14,7 +14,7 @@ A curated list of resources for multibody dynamics
 ### Contact / Collision
 
 * All's Well That Ends Well: Guaranteed Resolution of Simultaneous Rigid Body Impact (2017), E. Vouga et al. [[pdf](http://www.cs.utexas.edu/users/evouga/uploads/4/5/6/8/45689883/term-revised.pdf)]
-* Bounce Maps: An Improved Restitution Model for Real-Time Rigid-Body Impact (2017), J.-H. Wang et al. [[pdf](https://graphics.stanford.edu/projects/bouncemap/assets/restitution_lowres.pdf)]
+* Bounce Maps: An Improved Restitution Model for Real-Time Rigid-Body Impact (2017), J.-H. Wang et al. [[pdf](https://graphics.stanford.edu/projects/bouncemap/assets/restitution_lowres.pdf)] [[video](https://youtu.be/SL9goi6vQG4)]
 * Making a Meaningful Impact: Modelling Simultaneous Frictional Collisions in Spatial Multibody Systems (2015), T. Uchida et al. [[pdf](http://rspa.royalsocietypublishing.org/content/royprsa/471/2177/20140859.full.pdf)]
 * Quadratic Contact Energy Model for Multi-impact Simulation (2015), T. Zhang et al. [[pdf](http://or.nsfc.gov.cn/bitstream/00001903-5/344688/1/1000014372636.pdf)]
 * Reflections on Simultaneous Impact (2012), B. Smith et al. [[pdf](http://ai2-s2-pdfs.s3.amazonaws.com/8b44/61a8591456866890d27eb1fa720f24c4a176.pdf)]
