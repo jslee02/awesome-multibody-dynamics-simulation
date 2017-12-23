@@ -1,4 +1,4 @@
-# awesome-multibody-dynamics
+# Awesome Multibody Dynamics
 A curated list of resources for multibody dynamics
 
 ## Papers
