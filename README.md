@@ -44,6 +44,11 @@ A curated list of resources for multibody dynamics
 * Fast Resolution of Hierarchized Inverse Kinematics with Inequality Constraints (2010), A. Escande et al. [[pdf](https://hal.inria.fr/file/index/docid/484853/filename/2010_icra_escande.pdf)]
 * An Inverse Kinematic Architecture Enforcing an Arbitrary Number of Strict Priority Levels (2003), P. Baerlocher and R. Boulic. [[pdf](https://pdfs.semanticscholar.org/6db0/c8614005a3c9fb2b2524c228caf956cea5fd.pdf)]
 
+### Trajectory Optimization
+
+* Finding Locally Optimal, Collision-Free Trajectories with Sequential Convex Optimization (2013), J. Schulman et al. [[pdf](https://pdfs.semanticscholar.org/1887/ec08fa92c18158522c763213addce437c377.pdf)]
+* Newton-Type Algorithms for Dynamics-Based Robot Movement Optimization (2005), S.-H. Lee et al. [[pdf](https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/junggon/publications/2005_IEEE_TRO_newton-type_algorithms.pdf)]
+
 ## Recent Papers
 
 
