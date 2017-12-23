@@ -46,7 +46,7 @@ A curated list of resources for multibody dynamics
 
 ### Trajectory Optimization
 
-* Finding Locally Optimal, Collision-Free Trajectories with Sequential Convex Optimization (2013), J. Schulman et al. [[pdf](https://pdfs.semanticscholar.org/1887/ec08fa92c18158522c763213addce437c377.pdf)]
+* Motion Planning with Sequential Convex Optimization and Convex Collision Checking (2014), J. Schulman et al. [[pdf](https://cloudfront.escholarship.org/dist/prd/content/qt6km506db/qt6km506db.pdf)] [[more](http://rll.berkeley.edu/trajopt/ijrr/)]
 * Newton-Type Algorithms for Dynamics-Based Robot Movement Optimization (2005), S.-H. Lee et al. [[pdf](https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/junggon/publications/2005_IEEE_TRO_newton-type_algorithms.pdf)]
 
 ## Recent Papers
