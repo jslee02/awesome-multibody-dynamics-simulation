@@ -19,6 +19,7 @@ A curated list of resources for multibody dynamics
 
 ### Position Based Dynamics
 
+* Projective Dynamics: Fusing Constraint Projections for Fast Simulation (2014), S. Bouaziz el al. [[pdf](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1160&context=hms)]
 * Position Based Dynamics (2007), M. Müller et al. [[pdf](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf)]
 
 ## Books
