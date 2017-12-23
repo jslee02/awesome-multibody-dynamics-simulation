@@ -21,6 +21,7 @@ A curated list of resources for multibody dynamics
 
 ### Variational Integrators
 
+* A Linear-Time Variational Integrator for Multibody Systems (2016), J. Lee et al. [[pdf](https://arxiv.org/pdf/1609.02898.pdf)]
 * Discrete Geometric Optimal Control on Lie Groups (2011), M. Kobilarov and J. Marsden. [[pdf](https://pdfs.semanticscholar.org/d294/0ce9a9bb1e569cb4ebb632e07db8d3255c08.pdf)]
 * Scalable Variational Integrators for Constrained Mechanical Systems in Generalized Coordinates (2009), E. Johnson and T. Murphey. [[pdf](https://nxr.northwestern.edu/sites/default/files/publication-attachments/2009TROJoMu_expanded.pdf)]
 * Asynchronous Variational Integrators (2003), A. Lew el al. [[pdf](https://authors.library.caltech.edu/19592/1/LeMaOrWe2003.pdf)]
