@@ -34,8 +34,8 @@ A curated list of resources for multibody dynamics
 
 * XPBD: Position-Based Simulation of Compliant Constrained Dynamics (2016), M. Macklin et al. [[pdf](http://www.matthias-mueller-fischer.ch/publications/XPBD.pdf)]
 * Stable Constrained Dynamics (2015), M. Tournier et al. [[pdf](https://hal.inria.fr/hal-01157835/document)]
-* Projective Dynamics: Fusing Constraint Projections for Fast Simulation (2014), S. Bouaziz el al. [[pdf](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1160&context=hms)]
 * Position-Based Rigid Body Dynamics (2014), C. Deul et al. [[pdf](http://onlinelibrary.wiley.com/doi/10.1002/cav.1614/full)]
+* Projective Dynamics: Fusing Constraint Projections for Fast Simulation (2014), S. Bouaziz el al. [[pdf](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1160&context=hms)]
 * Position Based Dynamics (2007), M. Müller et al. [[pdf](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf)]
 
 ## Recent Papers
