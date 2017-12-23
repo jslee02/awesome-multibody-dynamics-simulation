@@ -7,15 +7,17 @@ A curated list of resources for multibody dynamics
 
 * A Lie Group Formulation of Robot Dynamics (1995), F. Park el al. [[pdf](http://roboticslab.snu.ac.kr/fcp/files/_pdf_files_publications/2_msd/a_lie_group_formulation_of_robot_dynamics.pdf)]
 
-### Variational Integrators
-
-* Discrete Geometric Optimal Control on Lie Groups (2011), M. Kobilarov and J. Marsden. [[pdf](https://pdfs.semanticscholar.org/d294/0ce9a9bb1e569cb4ebb632e07db8d3255c08.pdf)]
-* Scalable Variational Integrators for Constrained Mechanical Systems in Generalized Coordinates (2009), E. Johnson and T. Murphey. [[pdf](https://nxr.northwestern.edu/sites/default/files/publication-attachments/2009TROJoMu_expanded.pdf)]
-
 ### Contact / Collision
 
 * All's Well That Ends Well: Guaranteed Resolution of Simultaneous Rigid Body Impact (2017), E. Vouga et al. [[pdf](http://www.cs.utexas.edu/users/evouga/uploads/4/5/6/8/45689883/term-revised.pdf)]
 * Reflections on Simultaneous Impact (2012), B. Smith et al. [[pdf](http://ai2-s2-pdfs.s3.amazonaws.com/8b44/61a8591456866890d27eb1fa720f24c4a176.pdf)]
+* An Implicit Time-Stepping Scheme for Rigid Body Dynamics with Inelastic Collisions and Coulomb Friction (1996), D. Stewart and J. Trinkle. [[pdf](http://www.cs.rpi.edu/~trink/Papers/STijnme96.pdf)]
+* Impulse-based Simulation of Rigid Bodies (1995), B. Mirtich and J. Canny. [[pdf](https://pdfs.semanticscholar.org/e35b/6f409bb07dbe3407c9d6949330b903d063a8.pdf)]
+
+### Variational Integrators
+
+* Discrete Geometric Optimal Control on Lie Groups (2011), M. Kobilarov and J. Marsden. [[pdf](https://pdfs.semanticscholar.org/d294/0ce9a9bb1e569cb4ebb632e07db8d3255c08.pdf)]
+* Scalable Variational Integrators for Constrained Mechanical Systems in Generalized Coordinates (2009), E. Johnson and T. Murphey. [[pdf](https://nxr.northwestern.edu/sites/default/files/publication-attachments/2009TROJoMu_expanded.pdf)]
 
 ### Position Based Dynamics
 
