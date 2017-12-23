@@ -25,3 +25,4 @@ A curated list of resources for multibody dynamics
 
 * Modern Robotics: Mechanics, Planning, and Control (2017), K. Lynch and F. Park. [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
 * Rigid Body Dynamics Algorithms (2008), R. Featherstone. [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwihkeSup6DYAhUK8WMKHQwVBJ0QFghMMAM&url=ftp%3A%2F%2Fnozdr.ru%2Fbiblio%2Fkolxo3%2FP%2FPC%2FPCtm%2FFeatherstone%2520R.%2520Rigid%2520body%2520dynamics%2520algorithms%2520(Springer%2C%25202007)(ISBN%25200387743146)(280s)_PCtm_.pdf&usg=AOvVaw0jd-1HG_FFvl_mmMQLRHkg)]
+* A Mathematical Introduction to Robotic Manipulation (1994), R. Murray et al. [[pdf](http://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)]
