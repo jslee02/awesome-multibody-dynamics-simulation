@@ -20,6 +20,7 @@ A curated list of resources for multibody dynamics
 * Reflections on Simultaneous Impact (2012), B. Smith et al. [[pdf](http://ai2-s2-pdfs.s3.amazonaws.com/8b44/61a8591456866890d27eb1fa720f24c4a176.pdf)]
 * Modeling Contact Friction and Joint Friction in Dynamic Robotic Simulation using the Principle of Maximum Dissipation (2011), E. Drumwright and D. Shell. [[pdf](http://ai2-s2-pdfs.s3.amazonaws.com/f276/e8c072b8ff33ffbaa285af3368f756c9e062.pdf)]
 * Staggered Projections for Frictional Contact in Multibody Systems (2008), D. Kaufman et al. [[pdf](https://www.researchgate.net/profile/Doug_James/publication/220183619_Staggered_Projections_for_Frictional_Contact_in_Multibody_Systems/links/09e4150e200433ec26000000.pdf)]
+* Velocity-based shock propagation for multibody dynamics animation (2007), K. Erleben. [[pdf](https://www.researchgate.net/profile/Kenny_Erleben/publication/220184619_Velocity-based_shock_propagation_for_multibody_dynamics_animation/links/00b4953c931220d049000000.pdf)]
 * An Implicit Time-Stepping Scheme for Rigid Body Dynamics with Inelastic Collisions and Coulomb Friction (1996), D. Stewart and J. Trinkle. [[pdf](http://www.cs.rpi.edu/~trink/Papers/STijnme96.pdf)]
 * Impulse-based Simulation of Rigid Bodies (1995), B. Mirtich and J. Canny. [[pdf](https://pdfs.semanticscholar.org/e35b/6f409bb07dbe3407c9d6949330b903d063a8.pdf)]
 
@@ -69,6 +70,10 @@ A curated list of resources for multibody dynamics
 
 * Discrete Mechanics and Optimal Control for Space Trajectory Design (2011), A. Moore. [[pdf](https://thesis.library.caltech.edu/6441/1/Moore_thesis.pdf)]
 
+## Slides / Lectures
+
+* Multibody Dynamics Animation, K. Erleben. [[pdf](https://pdfs.semanticscholar.org/1caa/aac6ddd5ffb0a13b36b10183beaadf1adca9.pdf)]
+
 ## Books and Thesis
 
 * Modern Robotics: Mechanics, Planning, and Control (2017), K. Lynch and F. Park. [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
@@ -76,3 +81,4 @@ A curated list of resources for multibody dynamics
 * Guide to Dynamic Simulations of Rigid Bodeis and Particle Systems (2012), M. Coutinho. [[web](http://www.springer.com/us/book/9781447144168)]
 * Rigid Body Dynamics Algorithms (2008), R. Featherstone. [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwihkeSup6DYAhUK8WMKHQwVBJ0QFghMMAM&url=ftp%3A%2F%2Fnozdr.ru%2Fbiblio%2Fkolxo3%2FP%2FPC%2FPCtm%2FFeatherstone%2520R.%2520Rigid%2520body%2520dynamics%2520algorithms%2520(Springer%2C%25202007)(ISBN%25200387743146)(280s)_PCtm_.pdf&usg=AOvVaw0jd-1HG_FFvl_mmMQLRHkg)]
 * A Mathematical Introduction to Robotic Manipulation (1994), R. Murray et al. [[pdf](http://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)]
+* The Linear Complementarity Problem (1992), R. Cottle et al. [[web](http://epubs.siam.org/doi/abs/10.1137/1.9780898719000.bm)]
