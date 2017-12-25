@@ -82,3 +82,7 @@ A curated list of resources for multibody dynamics
 * Rigid Body Dynamics Algorithms (2008), R. Featherstone. [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwihkeSup6DYAhUK8WMKHQwVBJ0QFghMMAM&url=ftp%3A%2F%2Fnozdr.ru%2Fbiblio%2Fkolxo3%2FP%2FPC%2FPCtm%2FFeatherstone%2520R.%2520Rigid%2520body%2520dynamics%2520algorithms%2520(Springer%2C%25202007)(ISBN%25200387743146)(280s)_PCtm_.pdf&usg=AOvVaw0jd-1HG_FFvl_mmMQLRHkg)]
 * A Mathematical Introduction to Robotic Manipulation (1994), R. Murray et al. [[pdf](http://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)]
 * The Linear Complementarity Problem (1992), R. Cottle et al. [[web](http://epubs.siam.org/doi/abs/10.1137/1.9780898719000.bm)]
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
