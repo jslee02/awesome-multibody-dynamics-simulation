@@ -21,7 +21,7 @@ A curated list of resources for multibody dynamics
 * Reflections on Simultaneous Impact (2012), B. Smith et al. [[pdf](http://ai2-s2-pdfs.s3.amazonaws.com/8b44/61a8591456866890d27eb1fa720f24c4a176.pdf)]
 * Modeling Contact Friction and Joint Friction in Dynamic Robotic Simulation using the Principle of Maximum Dissipation (2011), E. Drumwright and D. Shell. [[pdf](http://ai2-s2-pdfs.s3.amazonaws.com/f276/e8c072b8ff33ffbaa285af3368f756c9e062.pdf)]
 * Staggered Projections for Frictional Contact in Multibody Systems (2008), D. Kaufman et al. [[pdf](https://www.researchgate.net/profile/Doug_James/publication/220183619_Staggered_Projections_for_Frictional_Contact_in_Multibody_Systems/links/09e4150e200433ec26000000.pdf)]
-* Velocity-based shock propagation for multibody dynamics animation (2007), K. Erleben. [[pdf](https://www.researchgate.net/profile/Kenny_Erleben/publication/220184619_Velocity-based_shock_propagation_for_multibody_dynamics_animation/links/00b4953c931220d049000000.pdf)]
+* Velocity-Based Shock Propagation for Multibody Dynamics Animation (2007), K. Erleben. [[pdf](https://www.researchgate.net/profile/Kenny_Erleben/publication/220184619_Velocity-based_shock_propagation_for_multibody_dynamics_animation/links/00b4953c931220d049000000.pdf)]
 * An Implicit Time-Stepping Scheme for Rigid Body Dynamics with Inelastic Collisions and Coulomb Friction (1996), D. Stewart and J. Trinkle. [[pdf](http://www.cs.rpi.edu/~trink/Papers/STijnme96.pdf)]
 * Impulse-based Simulation of Rigid Bodies (1995), B. Mirtich and J. Canny. [[pdf](https://pdfs.semanticscholar.org/e35b/6f409bb07dbe3407c9d6949330b903d063a8.pdf)]
 
