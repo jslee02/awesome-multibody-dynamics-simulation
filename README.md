@@ -70,6 +70,7 @@ A curated list of resources for multibody dynamics
 ## Thesis
 
 * Discrete Mechanics and Optimal Control for Space Trajectory Design (2011), A. Moore. [[pdf](https://thesis.library.caltech.edu/6441/1/Moore_thesis.pdf)]
+* Stable, Robust, and Versatile Multibody Dynamics Animation (2004), K. Erleben. [[pdf](https://www.researchgate.net/profile/Kenny_Erleben/publication/247635853_Stable_Robust_and_Versatile_Multibody_Dynamics_Animation/links/02e7e53c9330597986000000.pdf)]
 
 ## Slides / Lectures
 
