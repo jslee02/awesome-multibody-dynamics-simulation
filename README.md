@@ -87,6 +87,14 @@ A curated list of resources for multibody dynamics
 * A Mathematical Introduction to Robotic Manipulation (1994), R. Murray et al. [[pdf](http://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)]
 * The Linear Complementarity Problem (1992), R. Cottle et al. [[web](http://epubs.siam.org/doi/abs/10.1137/1.9780898719000.bm)]
 
+## Relevant Awesome Lists
+
+* [Awesome Robotics (ahundt)](https://github.com/ahundt/awesome-robotics)
+* [Awesome Robotics (Kiloreux)](https://github.com/Kiloreux/awesome-robotics)
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+* [Awesome Collision Detection](https://github.com/jslee02/awesome-collision-detection)
+* [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
