@@ -1,4 +1,5 @@
-# Awesome Multibody Dynamics
+# Awesome Multibody Dynamics Simulation
+
 A curated list of resources for multibody dynamics
 
 ## Papers
