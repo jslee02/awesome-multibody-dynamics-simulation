@@ -29,14 +29,20 @@ A curated list of resources for multibody dynamics simulation
 
 ### Variational Integrators
 
-#### Core
+#### Core / Overview
 
+* An Overview of Variational Integrators (2003), A. Lew et al. [[pdf](https://authors.library.caltech.edu/20293/1/LeMaOrWe2004a.pdf)]
 * Discrete Mechanics and Variational Integrators (2001), J. Marsden and M. West. [[pdf](https://authors.library.caltech.edu/19876/1/MaWe2001.pdf)]
 
 #### Geometric Formulation
 
 * Dual Quaternion Variational Integrator for Rigid Body Dynamic Simulation (2016), J. Xu and K. Halse. [[arXiv](https://arxiv.org/pdf/1611.00616.pdf)]
 * Discrete Geometric Optimal Control on Lie Groups (2011), M. Kobilarov and J. Marsden. [[pdf](https://pdfs.semanticscholar.org/d294/0ce9a9bb1e569cb4ebb632e07db8d3255c08.pdf)]
+
+#### Constrained Variational Integrators
+
+* Variational Integrators for Constrained Dynamical Systems (2008), S. Leyendecker et al. [[pdf](http://www.ltd.techfak.fau.de/Team/Leyendecker/Arxiv/Journal/leyendecker07-2.pdf)]
+* Nonsmooth Lagrangian Mechanics and Variational Collision Integrators (2003), R. Fetecau et al. [[pdf](http://epubs.siam.org/doi/pdf/10.1137/S1111111102406038)]
 
 #### Multibody Dynamics
 
