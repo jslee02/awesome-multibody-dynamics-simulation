@@ -29,11 +29,23 @@ A curated list of resources for multibody dynamics simulation
 
 ### Variational Integrators
 
-* A Linear-Time Variational Integrator for Multibody Systems (2016), J. Lee et al. [[pdf](https://arxiv.org/pdf/1609.02898.pdf)]
-* Discrete Geometric Optimal Control on Lie Groups (2011), M. Kobilarov and J. Marsden. [[pdf](https://pdfs.semanticscholar.org/d294/0ce9a9bb1e569cb4ebb632e07db8d3255c08.pdf)]
-* Scalable Variational Integrators for Constrained Mechanical Systems in Generalized Coordinates (2009), E. Johnson and T. Murphey. [[pdf](https://nxr.northwestern.edu/sites/default/files/publication-attachments/2009TROJoMu_expanded.pdf)]
-* Asynchronous Variational Integrators (2003), A. Lew el al. [[pdf](https://authors.library.caltech.edu/19592/1/LeMaOrWe2003.pdf)]
+#### Core
+
 * Discrete Mechanics and Variational Integrators (2001), J. Marsden and M. West. [[pdf](https://authors.library.caltech.edu/19876/1/MaWe2001.pdf)]
+
+#### Geometric Formulation
+
+* Dual Quaternion Variational Integrator for Rigid Body Dynamic Simulation (2016), J. Xu and K. Halse. [[arXiv](https://arxiv.org/pdf/1611.00616.pdf)]
+* Discrete Geometric Optimal Control on Lie Groups (2011), M. Kobilarov and J. Marsden. [[pdf](https://pdfs.semanticscholar.org/d294/0ce9a9bb1e569cb4ebb632e07db8d3255c08.pdf)]
+
+#### Multibody Dynamics
+
+* A Linear-Time Variational Integrator for Multibody Systems (2016), J. Lee et al. [[pdf](https://arxiv.org/pdf/1609.02898.pdf)]
+* Scalable Variational Integrators for Constrained Mechanical Systems in Generalized Coordinates (2009), E. Johnson and T. Murphey. [[pdf](https://nxr.northwestern.edu/sites/default/files/publication-attachments/2009TROJoMu_expanded.pdf)]
+
+#### Asynchronous Integration
+
+* Asynchronous Variational Integrators (2003), A. Lew el al. [[pdf](https://authors.library.caltech.edu/19592/1/LeMaOrWe2003.pdf)]
 
 ### Position Based Dynamics
 
