@@ -12,10 +12,16 @@ A curated list of resources for multibody dynamics simulation
 
 * Geometric Integration on Euclidean Group with Application to Articulated Multibody Systems (2005), J. Park and W.-K. Chung. [[pdf](http://www.ent.mrt.ac.lk/iml/paperbase/TRO%20Collection/TRO/2005/october/7.pdf)]
 
+### Inverse Dynamics
+
+* Inverse Dynamics with Rigid Contact and Friction (2017), S. Zapolsky and E. Drumwright. [[pdf](https://arxiv.org/pdf/1509.03355.pdf)]
+
 ### Contact / Collision
 
+* Posing Multibody Dynamics with Friction and Contact as a Differential Complementarity Problem (2018), D. Negrut et al. [[pdf](http://sbel.wisc.edu/documents/TR-2016-12.pdf)]
 * All's Well That Ends Well: Guaranteed Resolution of Simultaneous Rigid Body Impact (2017), E. Vouga et al. [[pdf](http://www.cs.utexas.edu/users/evouga/uploads/4/5/6/8/45689883/term-revised.pdf)]
 * Bounce Maps: An Improved Restitution Model for Real-Time Rigid-Body Impact (2017), J.-H. Wang et al. [[pdf](https://graphics.stanford.edu/projects/bouncemap/assets/restitution_lowres.pdf)] [[video](https://youtu.be/SL9goi6vQG4)]
+* Multi-contact Frictional Rigid Dynamics using Impulse Decomposition (2017), S. Li et al. [[pdf](https://wwwx.cs.unc.edu/~geom/papers/documents/articles/2017/LiSheng_IROS_2017.pdf)]
 * Making a Meaningful Impact: Modelling Simultaneous Frictional Collisions in Spatial Multibody Systems (2015), T. Uchida et al. [[pdf](http://rspa.royalsocietypublishing.org/content/royprsa/471/2177/20140859.full.pdf)]
 * Performance of a Method for Formulating Geometrically Exact Complementarity Constraints in Multibody Dynamic Simulation (2015), D. Flickinger et al. [[pdf](https://www.researchgate.net/profile/Daniel_Flickinger/publication/274874514_Performance_of_a_Method_for_Formulating_Geometrically_Exact_Complementarity_Constraints_in_Multibody_Dynamic_Simulation/links/56b613b308ae44bb3307820a.pdf)]
 * Quadratic Contact Energy Model for Multi-impact Simulation (2015), T. Zhang et al. [[pdf](http://or.nsfc.gov.cn/bitstream/00001903-5/344688/1/1000014372636.pdf)]
@@ -65,6 +71,10 @@ A curated list of resources for multibody dynamics simulation
 * Projective Dynamics: Fusing Constraint Projections for Fast Simulation (2014), S. Bouaziz el al. [[pdf](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1160&context=hms)]
 * Position Based Dynamics (2007), M. Müller et al. [[pdf](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf)]
 
+### Deformable Body Simulation
+
+* Interactive Constrained Dynamics for Rigid and Deformable Objects (2015), L. Vezzaro et al. [[pdf](https://iris.univr.it/retrieve/handle/11562/878222/23782/Vezzaro_et_al-2015-Computer_Animation_and_Virtual_Worlds.pdf)]
+
 ### Inverse Kinematics
 
 * FABRIK: A Fast, Iterative Solver for the Inverse Kinematics Problem (2011), A. Aristidou and J. Lasenby. [[pdf](https://s3.amazonaws.com/academia.edu.documents/35451443/FABRIK.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1514061893&Signature=6nnzM3JlrshYXYGvzvrjhAwjUZs%3D&response-content-disposition=inline%3B%20filename%3DFABRIK_A_fast_iterative_solver_for_the_I.pdf)]
@@ -76,20 +86,13 @@ A curated list of resources for multibody dynamics simulation
 * Motion Planning with Sequential Convex Optimization and Convex Collision Checking (2014), J. Schulman et al. [[pdf](https://cloudfront.escholarship.org/dist/prd/content/qt6km506db/qt6km506db.pdf)] [[more](http://rll.berkeley.edu/trajopt/ijrr/)]
 * Newton-Type Algorithms for Dynamics-Based Robot Movement Optimization (2005), S.-H. Lee et al. [[pdf](https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/junggon/publications/2005_IEEE_TRO_newton-type_algorithms.pdf)]
 
+### Applications
+
+* SMASH: Physics-guided Reconstruction of Collisions from Videos (2017), A. Monszpart et al. [[pdf](https://arxiv.org/pdf/1603.08984.pdf)] [[video](https://youtu.be/rCZ-1yWJP2Q)]
+
 ### Survey
 
 * Interactive Simulation of Rigid Body Dynamics in Computer Graphics (2014), J. Bender et al. [[pdf](https://twiki.cs.rpi.edu/twiki/pub/RoboticsWeb/LabPublications/BETCstar_part1.pdf)]
-
-## Recent Papers
-
-
-> Papers I haven't read yet but worth reading.
-
-* Posing Multibody Dynamics with Friction and Contact as a Differential Complementarity Problem (2018), D. Negrut et al. [[pdf](http://sbel.wisc.edu/documents/TR-2016-12.pdf)]
-* Inverse Dynamics with Rigid Contact and Friction (2017), S. Zapolsky and E. Drumwright. [[pdf](https://arxiv.org/pdf/1509.03355.pdf)]
-* Multi-contact Frictional Rigid Dynamics using Impulse Decomposition (2017), S. Li et al. [[pdf](https://wwwx.cs.unc.edu/~geom/papers/documents/articles/2017/LiSheng_IROS_2017.pdf)]
-* SMASH: Physics-guided Reconstruction of Collisions from Videos (2017), A. Monszpart et al. [[pdf](https://arxiv.org/pdf/1603.08984.pdf)] [[video](https://youtu.be/rCZ-1yWJP2Q)]
-* Interactive Constrained Dynamics for Rigid and Deformable Objects (2015), L. Vezzaro et al. [[pdf](https://iris.univr.it/retrieve/handle/11562/878222/23782/Vezzaro_et_al-2015-Computer_Animation_and_Virtual_Worlds.pdf)]
 
 ## Thesis
 
