@@ -4,15 +4,17 @@ A curated list of resources for multibody dynamics simulation
 
 ## Papers
 
-### Geometric Formulation
+### Rigid Body Dynamics
+
+#### Geometric Formulation
 
 * A Lie Group Formulation of Robot Dynamics (1995), F. Park el al. [[pdf](http://roboticslab.snu.ac.kr/fcp/files/_pdf_files_publications/2_msd/a_lie_group_formulation_of_robot_dynamics.pdf)]
 
-### Geometric Integration
+#### Geometric Integration
 
 * Geometric Integration on Euclidean Group with Application to Articulated Multibody Systems (2005), J. Park and W.-K. Chung. [[pdf](http://www.ent.mrt.ac.lk/iml/paperbase/TRO%20Collection/TRO/2005/october/7.pdf)]
 
-### Inverse Dynamics
+#### Inverse Dynamics
 
 * Inverse Dynamics with Rigid Contact and Friction (2017), S. Zapolsky and E. Drumwright. [[pdf](https://arxiv.org/pdf/1509.03355.pdf)]
 
