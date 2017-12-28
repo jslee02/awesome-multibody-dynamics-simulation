@@ -74,6 +74,7 @@ A curated list of resources for multibody dynamics simulation
 
 ### Deformable Body Simulation
 
+* Towards Real-time Simulation of Hyperelastic Materials (2016), T. Liu et al. [[pdf](https://arxiv.org/pdf/1604.07378.pdf)]
 * Interactive Constrained Dynamics for Rigid and Deformable Objects (2015), L. Vezzaro et al. [[pdf](https://iris.univr.it/retrieve/handle/11562/878222/23782/Vezzaro_et_al-2015-Computer_Animation_and_Virtual_Worlds.pdf)]
 
 ### Inverse Kinematics
