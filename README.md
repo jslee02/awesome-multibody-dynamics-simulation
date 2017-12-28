@@ -23,6 +23,7 @@ A curated list of resources for multibody dynamics simulation
 ### 2. Contact / Collision
 
 * Posing Multibody Dynamics with Friction and Contact as a Differential Complementarity Problem (2018), D. Negrut et al. [[pdf](http://sbel.wisc.edu/documents/TR-2016-12.pdf)]
+* Rigid Body Contact Problems using Proximal Operators (2017), K. Erleben. [[pdf](http://image.diku.dk/kenny/download/erleben.17a.pdf)]
 * Making a Meaningful Impact: Modelling Simultaneous Frictional Collisions in Spatial Multibody Systems (2015), T. Uchida et al. [[pdf](http://rspa.royalsocietypublishing.org/content/royprsa/471/2177/20140859.full.pdf)]
 * Performance of a Method for Formulating Geometrically Exact Complementarity Constraints in Multibody Dynamic Simulation (2015), D. Flickinger et al. [[pdf](https://www.researchgate.net/profile/Daniel_Flickinger/publication/274874514_Performance_of_a_Method_for_Formulating_Geometrically_Exact_Complementarity_Constraints_in_Multibody_Dynamic_Simulation/links/56b613b308ae44bb3307820a.pdf)]
 * What’s Wrong with Collision Detection in Multibody Dynamics Simulation? (2013), D. Flickinger et al. [[pdf](http://twiki.cs.rpi.edu/foswiki/pub/RoboticsWeb/LabPublications/FlickingerICRA2013.pdf)]
@@ -86,7 +87,7 @@ A curated list of resources for multibody dynamics simulation
 * Projective Dynamics: Fusing Constraint Projections for Fast Simulation (2014), S. Bouaziz el al. [[pdf](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1160&context=hms)]
 * Position Based Dynamics (2007), M. Müller et al. [[pdf](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf)]
 
-### 5. Deformable Body Simulation
+### 5. Deformable Body / Granular / Fluid Simulation
 
 * Towards Real-time Simulation of Hyperelastic Materials (2016), T. Liu et al. [[pdf](https://arxiv.org/pdf/1604.07378.pdf)]
 * Interactive Constrained Dynamics for Rigid and Deformable Objects (2015), L. Vezzaro et al. [[pdf](https://iris.univr.it/retrieve/handle/11562/878222/23782/Vezzaro_et_al-2015-Computer_Animation_and_Virtual_Worlds.pdf)]
