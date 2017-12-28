@@ -33,10 +33,14 @@ A curated list of resources for multibody dynamics simulation
 * An Implicit Time-Stepping Scheme for Rigid Body Dynamics with Inelastic Collisions and Coulomb Friction (1996), D. Stewart and J. Trinkle. [[pdf](http://www.cs.rpi.edu/~trink/Papers/STijnme96.pdf)]
 * Impulse-based Simulation of Rigid Bodies (1995), B. Mirtich and J. Canny. [[pdf](https://pdfs.semanticscholar.org/e35b/6f409bb07dbe3407c9d6949330b903d063a8.pdf)]
 
+#### Non-LCP based Methods
+
+* Multi-contact Frictional Rigid Dynamics using Impulse Decomposition (2017), S. Li et al. [[pdf](https://wwwx.cs.unc.edu/~geom/papers/documents/articles/2017/LiSheng_IROS_2017.pdf)]
+* Fast Frictional Dynamics for Rigid Bodies (2005), D. Kaufman et al. [[pdf](http://research.cs.rutgers.edu/~tedmunds/publications/FFD-siggraph2005.pdf)]
+
 #### Simultaneous Contact
 
 * All's Well That Ends Well: Guaranteed Resolution of Simultaneous Rigid Body Impact (2017), E. Vouga et al. [[pdf](http://www.cs.utexas.edu/users/evouga/uploads/4/5/6/8/45689883/term-revised.pdf)]
-* Multi-contact Frictional Rigid Dynamics using Impulse Decomposition (2017), S. Li et al. [[pdf](https://wwwx.cs.unc.edu/~geom/papers/documents/articles/2017/LiSheng_IROS_2017.pdf)]
 * Quadratic Contact Energy Model for Multi-impact Simulation (2015), T. Zhang et al. [[pdf](http://or.nsfc.gov.cn/bitstream/00001903-5/344688/1/1000014372636.pdf)]
 * Reflections on Simultaneous Impact (2012), B. Smith et al. [[pdf](http://ai2-s2-pdfs.s3.amazonaws.com/8b44/61a8591456866890d27eb1fa720f24c4a176.pdf)]
 
