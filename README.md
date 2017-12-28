@@ -8,6 +8,8 @@ A curated list of resources for multibody dynamics simulation
 
 #### Geometric Formulation
 
+* A Recursive Multibody Dynamics and Sensitivity Algorithm for Branched Kinematic Chains (2001), G Sohl and J. Bobrow. [[pdf](http://gram.eng.uci.edu/~bobrow/papers_files/ASME_Recursive_Garett.pdf)]
+* Coordinate-invariant Algorithms for Robot Dynamics (1999), S. Ploen and F. Park. [[pdf](http://robotics.snu.ac.kr/fcp/files/_pdf_files_publications/2_msd/coordinat-invariant_algorithm.pdf)]
 * A Lie Group Formulation of Robot Dynamics (1995), F. Park el al. [[pdf](http://roboticslab.snu.ac.kr/fcp/files/_pdf_files_publications/2_msd/a_lie_group_formulation_of_robot_dynamics.pdf)]
 
 #### Geometric Integration
