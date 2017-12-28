@@ -65,6 +65,7 @@ A curated list of resources for multibody dynamics simulation
 
 ### Position Based Dynamics
 
+* ADMM ⊇ Projective Dynamics: Fast Simulation of General Constitutive Models (2016), R. Narain et al. [[pdf](http://www-users.cs.umn.edu/~narain/files/admm-pd.pdf)]
 * XPBD: Position-Based Simulation of Compliant Constrained Dynamics (2016), M. Macklin et al. [[pdf](http://www.matthias-mueller-fischer.ch/publications/XPBD.pdf)]
 * Stable Constrained Dynamics (2015), M. Tournier et al. [[pdf](https://hal.inria.fr/hal-01157835/document)]
 * Position-Based Rigid Body Dynamics (2014), C. Deul et al. [[pdf](http://onlinelibrary.wiley.com/doi/10.1002/cav.1614/full)]
