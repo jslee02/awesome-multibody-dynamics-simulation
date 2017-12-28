@@ -4,7 +4,7 @@ A curated list of resources for multibody dynamics simulation
 
 ## Papers
 
-### Rigid Body Dynamics
+### 1. Rigid Body Dynamics
 
 #### Geometric Formulation
 
@@ -18,7 +18,7 @@ A curated list of resources for multibody dynamics simulation
 
 * Inverse Dynamics with Rigid Contact and Friction (2017), S. Zapolsky and E. Drumwright. [[pdf](https://arxiv.org/pdf/1509.03355.pdf)]
 
-### Contact / Collision
+### 2. Contact / Collision
 
 * Posing Multibody Dynamics with Friction and Contact as a Differential Complementarity Problem (2018), D. Negrut et al. [[pdf](http://sbel.wisc.edu/documents/TR-2016-12.pdf)]
 * All's Well That Ends Well: Guaranteed Resolution of Simultaneous Rigid Body Impact (2017), E. Vouga et al. [[pdf](http://www.cs.utexas.edu/users/evouga/uploads/4/5/6/8/45689883/term-revised.pdf)]
@@ -35,7 +35,7 @@ A curated list of resources for multibody dynamics simulation
 * An Implicit Time-Stepping Scheme for Rigid Body Dynamics with Inelastic Collisions and Coulomb Friction (1996), D. Stewart and J. Trinkle. [[pdf](http://www.cs.rpi.edu/~trink/Papers/STijnme96.pdf)]
 * Impulse-based Simulation of Rigid Bodies (1995), B. Mirtich and J. Canny. [[pdf](https://pdfs.semanticscholar.org/e35b/6f409bb07dbe3407c9d6949330b903d063a8.pdf)]
 
-### Variational Integrators
+### 3. Variational Integrators
 
 #### Core / Overview
 
@@ -65,7 +65,7 @@ A curated list of resources for multibody dynamics simulation
 
 * Stochastic Variational Integrators (2008), N. Bou-Rabee and H. Owhadi. [[pdf](https://arxiv.org/pdf/0708.2187.pdf)]
 
-### Position Based Dynamics
+### 4. Position Based Dynamics
 
 * ADMM ⊇ Projective Dynamics: Fast Simulation of General Constitutive Models (2016), R. Narain et al. [[pdf](http://www-users.cs.umn.edu/~narain/files/admm-pd.pdf)]
 * XPBD: Position-Based Simulation of Compliant Constrained Dynamics (2016), M. Macklin et al. [[pdf](http://www.matthias-mueller-fischer.ch/publications/XPBD.pdf)]
@@ -74,27 +74,27 @@ A curated list of resources for multibody dynamics simulation
 * Projective Dynamics: Fusing Constraint Projections for Fast Simulation (2014), S. Bouaziz el al. [[pdf](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1160&context=hms)]
 * Position Based Dynamics (2007), M. Müller et al. [[pdf](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf)]
 
-### Deformable Body Simulation
+### 5. Deformable Body Simulation
 
 * Towards Real-time Simulation of Hyperelastic Materials (2016), T. Liu et al. [[pdf](https://arxiv.org/pdf/1604.07378.pdf)]
 * Interactive Constrained Dynamics for Rigid and Deformable Objects (2015), L. Vezzaro et al. [[pdf](https://iris.univr.it/retrieve/handle/11562/878222/23782/Vezzaro_et_al-2015-Computer_Animation_and_Virtual_Worlds.pdf)]
 
-### Inverse Kinematics
+### 6. Inverse Kinematics
 
 * FABRIK: A Fast, Iterative Solver for the Inverse Kinematics Problem (2011), A. Aristidou and J. Lasenby. [[pdf](https://s3.amazonaws.com/academia.edu.documents/35451443/FABRIK.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1514061893&Signature=6nnzM3JlrshYXYGvzvrjhAwjUZs%3D&response-content-disposition=inline%3B%20filename%3DFABRIK_A_fast_iterative_solver_for_the_I.pdf)]
 * Fast Resolution of Hierarchized Inverse Kinematics with Inequality Constraints (2010), A. Escande et al. [[pdf](https://hal.inria.fr/file/index/docid/484853/filename/2010_icra_escande.pdf)]
 * An Inverse Kinematic Architecture Enforcing an Arbitrary Number of Strict Priority Levels (2003), P. Baerlocher and R. Boulic. [[pdf](https://pdfs.semanticscholar.org/6db0/c8614005a3c9fb2b2524c228caf956cea5fd.pdf)]
 
-### Trajectory Optimization
+### 7. Trajectory Optimization
 
 * Motion Planning with Sequential Convex Optimization and Convex Collision Checking (2014), J. Schulman et al. [[pdf](https://cloudfront.escholarship.org/dist/prd/content/qt6km506db/qt6km506db.pdf)] [[more](http://rll.berkeley.edu/trajopt/ijrr/)]
 * Newton-Type Algorithms for Dynamics-Based Robot Movement Optimization (2005), S.-H. Lee et al. [[pdf](https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/junggon/publications/2005_IEEE_TRO_newton-type_algorithms.pdf)]
 
-### Applications
+### 8. Applications
 
 * SMASH: Physics-guided Reconstruction of Collisions from Videos (2017), A. Monszpart et al. [[pdf](https://arxiv.org/pdf/1603.08984.pdf)] [[video](https://youtu.be/rCZ-1yWJP2Q)]
 
-### Survey
+### 9. Survey
 
 * Interactive Simulation of Rigid Body Dynamics in Computer Graphics (2014), J. Bender et al. [[pdf](https://twiki.cs.rpi.edu/twiki/pub/RoboticsWeb/LabPublications/BETCstar_part1.pdf)]
 * A Survey on Position-Based Simulation Methods in Computer Graphics (2014), J. Bender et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.491.1850&rep=rep1&type=pdf)]
