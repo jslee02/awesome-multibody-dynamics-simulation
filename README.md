@@ -23,7 +23,6 @@ A curated list of resources for multibody dynamics simulation
 ### 2. Contact / Collision
 
 * Posing Multibody Dynamics with Friction and Contact as a Differential Complementarity Problem (2018), D. Negrut et al. [[pdf](http://sbel.wisc.edu/documents/TR-2016-12.pdf)]
-* Bounce Maps: An Improved Restitution Model for Real-Time Rigid-Body Impact (2017), J.-H. Wang et al. [[pdf](https://graphics.stanford.edu/projects/bouncemap/assets/restitution_lowres.pdf)] [[video](https://youtu.be/SL9goi6vQG4)]
 * Making a Meaningful Impact: Modelling Simultaneous Frictional Collisions in Spatial Multibody Systems (2015), T. Uchida et al. [[pdf](http://rspa.royalsocietypublishing.org/content/royprsa/471/2177/20140859.full.pdf)]
 * Performance of a Method for Formulating Geometrically Exact Complementarity Constraints in Multibody Dynamic Simulation (2015), D. Flickinger et al. [[pdf](https://www.researchgate.net/profile/Daniel_Flickinger/publication/274874514_Performance_of_a_Method_for_Formulating_Geometrically_Exact_Complementarity_Constraints_in_Multibody_Dynamic_Simulation/links/56b613b308ae44bb3307820a.pdf)]
 * What’s Wrong with Collision Detection in Multibody Dynamics Simulation? (2013), D. Flickinger et al. [[pdf](http://twiki.cs.rpi.edu/foswiki/pub/RoboticsWeb/LabPublications/FlickingerICRA2013.pdf)]
@@ -43,6 +42,10 @@ A curated list of resources for multibody dynamics simulation
 * All's Well That Ends Well: Guaranteed Resolution of Simultaneous Rigid Body Impact (2017), E. Vouga et al. [[pdf](http://www.cs.utexas.edu/users/evouga/uploads/4/5/6/8/45689883/term-revised.pdf)]
 * Quadratic Contact Energy Model for Multi-impact Simulation (2015), T. Zhang et al. [[pdf](http://or.nsfc.gov.cn/bitstream/00001903-5/344688/1/1000014372636.pdf)]
 * Reflections on Simultaneous Impact (2012), B. Smith et al. [[pdf](http://ai2-s2-pdfs.s3.amazonaws.com/8b44/61a8591456866890d27eb1fa720f24c4a176.pdf)]
+
+#### Non-uniform Coefficient of Restitution Model
+
+* Bounce Maps: An Improved Restitution Model for Real-Time Rigid-Body Impact (2017), J.-H. Wang et al. [[pdf](https://graphics.stanford.edu/projects/bouncemap/assets/restitution_lowres.pdf)] [[video](https://youtu.be/SL9goi6vQG4)]
 
 ### 3. Discrete Mechanics / Variational Integrators
 
