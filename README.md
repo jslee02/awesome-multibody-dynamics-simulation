@@ -37,7 +37,7 @@ A curated list of resources for multibody dynamics simulation
 * An Implicit Time-Stepping Scheme for Rigid Body Dynamics with Inelastic Collisions and Coulomb Friction (1996), D. Stewart and J. Trinkle. [[pdf](http://www.cs.rpi.edu/~trink/Papers/STijnme96.pdf)]
 * Impulse-based Simulation of Rigid Bodies (1995), B. Mirtich and J. Canny. [[pdf](https://pdfs.semanticscholar.org/e35b/6f409bb07dbe3407c9d6949330b903d063a8.pdf)]
 
-### 3. Variational Integrators
+### 3. Discrete Mechanics / Variational Integrators
 
 #### Core / Overview
 
