@@ -95,6 +95,7 @@ A curated list of resources for multibody dynamics simulation
 ### Survey
 
 * Interactive Simulation of Rigid Body Dynamics in Computer Graphics (2014), J. Bender et al. [[pdf](https://twiki.cs.rpi.edu/twiki/pub/RoboticsWeb/LabPublications/BETCstar_part1.pdf)]
+* A Survey on Position-Based Simulation Methods in Computer Graphics (2014), J. Bender et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.491.1850&rep=rep1&type=pdf)]
 
 ## Thesis
 
