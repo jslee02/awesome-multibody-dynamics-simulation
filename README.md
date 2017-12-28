@@ -53,6 +53,10 @@ A curated list of resources for multibody dynamics simulation
 
 * Asynchronous Variational Integrators (2003), A. Lew el al. [[pdf](https://authors.library.caltech.edu/19592/1/LeMaOrWe2003.pdf)]
 
+#### Stochastic Mechanics
+
+* Stochastic Variational Integrators (2008), N. Bou-Rabee and H. Owhadi. [[pdf](https://arxiv.org/pdf/0708.2187.pdf)]
+
 ### Position Based Dynamics
 
 * XPBD: Position-Based Simulation of Compliant Constrained Dynamics (2016), M. Macklin et al. [[pdf](http://www.matthias-mueller-fischer.ch/publications/XPBD.pdf)]
