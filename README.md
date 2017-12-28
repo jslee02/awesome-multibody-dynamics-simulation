@@ -4,7 +4,7 @@ A curated list of resources for multibody dynamics simulation
 
 ## Papers
 
-### 1. Rigid Body Dynamics
+### 1. Multibody Dynamics Formulation
 
 #### Geometric Formulation
 
