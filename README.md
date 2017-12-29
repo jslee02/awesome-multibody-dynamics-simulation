@@ -65,7 +65,8 @@ A curated list of resources for multibody dynamics simulation
 
 * Hamilton's Principle as Variational Inequality for Mechanical Systems with Impact (2016), R. Leine et al. [[pdf](https://hal.archives-ouvertes.fr/hal-01352880/document)]
 * Study of Newton's Cradle using a New Discrete Approach (2015), A. Rodriguez and A Bowling. [[pdf](https://www.researchgate.net/profile/Adrian_Rodriguez31/publication/267490830_Study_of_the_Stick-Slip_Transition_of_Newton%27s_Cradle_With_Friction/links/57c506fe08aecd451415613a/Study-of-the-Stick-Slip-Transition-of-Newtons-Cradle-With-Friction.pdf)]
-* A Propagative Model of Simultaneous Impact: Existence, Uniqueness, and Design Consequences (2014), [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
+* A Propagative Model of Simultaneous Impact: Existence, Uniqueness, and Design Consequences (2014), 
+V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 * Multiple Instantaneous Collisions in a Variational Framework (2009), V. Seghete and T. Murphey. [[pdf](https://nxr.northwestern.edu/sites/default/files/publications/murphey-2009CDCa.pdf)]
 * Variational Integrators for Constrained Dynamical Systems (2008), S. Leyendecker et al. [[pdf](http://www.ltd.techfak.fau.de/Team/Leyendecker/Arxiv/Journal/leyendecker07-2.pdf)]
 * Nonsmooth Lagrangian Mechanics and Variational Collision Integrators (2003), R. Fetecau et al. [[pdf](http://epubs.siam.org/doi/pdf/10.1137/S1111111102406038)]
