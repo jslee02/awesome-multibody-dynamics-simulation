@@ -121,7 +121,11 @@ A curated list of resources for multibody dynamics simulation
 
 * Multibody Dynamics Animation, K. Erleben. [[pdf](https://pdfs.semanticscholar.org/1caa/aac6ddd5ffb0a13b36b10183beaadf1adca9.pdf)]
 
-## Books and Thesis
+## Thesis
+
+* Variational Integrators (2004), M. West. [[pdf](https://thesis.library.caltech.edu/2492/1/west_thesis.pdf)]
+
+## Books
 
 * Modern Robotics: Mechanics, Planning, and Control (2017), K. Lynch and F. Park. [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
 * Numerical Methods for Linear Complementarity Problems in Physics-Based Animation (2015), S. Niebe and K. Erleben. [[pdf](http://image.diku.dk/kenny/download/erleben.13.siggraph.course.notes.pdf)]
