@@ -69,6 +69,7 @@ A curated list of resources for multibody dynamics simulation
 V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 * Variational Solutions to Simultaneous Collisions between Multiple Rigid Bodies (2010), V. Seghete and T. Murphey. [[pdf](https://nxr.northwestern.edu/sites/default/files/publications/murphey-2010ICRAa.pdf)]
 * Multiple Instantaneous Collisions in a Variational Framework (2009), V. Seghete and T. Murphey. [[pdf](https://nxr.northwestern.edu/sites/default/files/publications/murphey-2009CDCa.pdf)]
+* Variational Collision Integrators and Optimal Control (2008), D Pekarek and J. Marsden. [[pdf](https://authors.library.caltech.edu/20571/1/PeMa2008.pdf)]
 * Variational Integrators for Constrained Dynamical Systems (2008), S. Leyendecker et al. [[pdf](http://www.ltd.techfak.fau.de/Team/Leyendecker/Arxiv/Journal/leyendecker07-2.pdf)]
 * Nonsmooth Lagrangian Mechanics and Variational Collision Integrators (2003), R. Fetecau et al. [[pdf](http://epubs.siam.org/doi/pdf/10.1137/S1111111102406038)]
 * Time-discretized Variational Formulation of Non-smooth Frictional Contact (2002), A. Pandolfi et al. [[pdf](http://ai2-s2-pdfs.s3.amazonaws.com/d336/b0627a7f37f8e7ff1c3db3a34c0351705be3.pdf)]
