@@ -52,6 +52,7 @@ A curated list of resources for multibody dynamics simulation
 
 #### Core / Overview
 
+* General Techniques for Constructing Variational Integrators (2011), M. Leok and T. Shingel. [[pdf](https://arxiv.org/pdf/1102.2685.pdf)]
 * An Overview of Variational Integrators (2003), A. Lew et al. [[pdf](https://authors.library.caltech.edu/20293/1/LeMaOrWe2004a.pdf)]
 * Discrete Mechanics and Variational Integrators (2001), J. Marsden and M. West. [[pdf](https://authors.library.caltech.edu/19876/1/MaWe2001.pdf)]
 
@@ -62,16 +63,20 @@ A curated list of resources for multibody dynamics simulation
 
 #### Constrained Variational Integrators
 
+* Hamilton's Principle as Variational Inequality for Mechanical Systems with Impact (2016), R. Leine et al. [[pdf](https://hal.archives-ouvertes.fr/hal-01352880/document)]
+* Multiple Instantaneous Collisions in a Variational Framework (2009), V. Seghete and T. Murphey. [[pdf](https://nxr.northwestern.edu/sites/default/files/publications/murphey-2009CDCa.pdf)]
 * Variational Integrators for Constrained Dynamical Systems (2008), S. Leyendecker et al. [[pdf](http://www.ltd.techfak.fau.de/Team/Leyendecker/Arxiv/Journal/leyendecker07-2.pdf)]
 * Nonsmooth Lagrangian Mechanics and Variational Collision Integrators (2003), R. Fetecau et al. [[pdf](http://epubs.siam.org/doi/pdf/10.1137/S1111111102406038)]
+* Time-discretized Variational Formulation of Non-smooth Frictional Contact (2002), A. Pandolfi et al. [[pdf](http://ai2-s2-pdfs.s3.amazonaws.com/d336/b0627a7f37f8e7ff1c3db3a34c0351705be3.pdf)]
 
 #### Multibody Dynamics
 
 * A Linear-Time Variational Integrator for Multibody Systems (2016), J. Lee et al. [[pdf](https://arxiv.org/pdf/1609.02898.pdf)]
 * Scalable Variational Integrators for Constrained Mechanical Systems in Generalized Coordinates (2009), E. Johnson and T. Murphey. [[pdf](https://nxr.northwestern.edu/sites/default/files/publication-attachments/2009TROJoMu_expanded.pdf)]
 
-#### Asynchronous Integration
+#### Adaptive Time-stepping / Asynchronous Integration
 
+* A variational approach to multirate integration for constrained systems (2013), S. Leyendecker and S. Ober-Blobaum. [[pdf](http://www.ltd.tf.fau.de/Team/Leyendecker/Arxiv/LeyendeckerOber-Bloebaum_bookchapter13.pdf)]
 * Asynchronous Variational Integrators (2003), A. Lew el al. [[pdf](https://authors.library.caltech.edu/19592/1/LeMaOrWe2003.pdf)]
 
 #### Stochastic Mechanics
