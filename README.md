@@ -91,6 +91,10 @@ V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 
 * Stochastic Variational Integrators (2008), N. Bou-Rabee and H. Owhadi. [[pdf](https://arxiv.org/pdf/0708.2187.pdf)]
 
+#### Trajectory Optimization / DMOC
+
+* Autonomous Suspended Load Operations via Trajectory Optimization and Variational Integrators (2017), G. Torre et al. [[pdf](https://gerardodelatorredotorg.files.wordpress.com/2015/11/slung1.pdf)]
+
 ### 4. Position Based Dynamics
 
 * ADMM ⊇ Projective Dynamics: Fast Simulation of General Constitutive Models (2016), R. Narain et al. [[pdf](http://www-users.cs.umn.edu/~narain/files/admm-pd.pdf)]
