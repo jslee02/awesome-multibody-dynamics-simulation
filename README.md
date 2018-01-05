@@ -61,6 +61,9 @@ A curated list of resources for multibody dynamics simulation
 * Dual Quaternion Variational Integrator for Rigid Body Dynamic Simulation (2016), J. Xu and K. Halse. [[arXiv](https://arxiv.org/pdf/1611.00616.pdf)]
 * Discrete Geometric Optimal Control on Lie Groups (2011), M. Kobilarov and J. Marsden. [[pdf](https://pdfs.semanticscholar.org/d294/0ce9a9bb1e569cb4ebb632e07db8d3255c08.pdf)]
 
+#### High Order Convergence
+* Surrogate Lagrangians for Variational Integrators: High Order Convergence with Low Order Schemes (20017), G. Torre and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.03883.pdf)]
+
 #### Constrained Variational Integrators
 
 * Hamilton's Principle as Variational Inequality for Mechanical Systems with Impact (2016), R. Leine et al. [[pdf](https://hal.archives-ouvertes.fr/hal-01352880/document)]
