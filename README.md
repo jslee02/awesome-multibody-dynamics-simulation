@@ -94,6 +94,7 @@ V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 #### Trajectory Optimization / DMOC
 
 * Autonomous Suspended Load Operations via Trajectory Optimization and Variational Integrators (2017), G. Torre et al. [[pdf](https://gerardodelatorredotorg.files.wordpress.com/2015/11/slung1.pdf)]
+* On the Benefits of Surrogate Lagrangians in Optimal Control and Planning Algorithms (2017), G. Torre and T. Murphey. [[pdf](https://pdfs.semanticscholar.org/2f86/5363621d0a3c68a2b48c8408220023e0db00.pdf)]
 
 ### 4. Position Based Dynamics
 
