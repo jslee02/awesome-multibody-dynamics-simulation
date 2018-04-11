@@ -20,10 +20,6 @@ A curated list of resources for multibody dynamics simulation
 
 * Inverse Dynamics with Rigid Contact and Friction (2017), S. Zapolsky and E. Drumwright. [[pdf](https://arxiv.org/pdf/1509.03355.pdf)]
 
-#### Symbolic Computation
-
-* Symbolic Geometric Modelling of Tree‐Structure Robotic Mechanisms Using Lie Groups and Graph Theory (2019), J. A. Escalera et al.
-
 ### 2. Contact / Collision
 
 * Posing Multibody Dynamics with Friction and Contact as a Differential Complementarity Problem (2018), D. Negrut et al. [[pdf](http://sbel.wisc.edu/documents/TR-2016-12.pdf)]
