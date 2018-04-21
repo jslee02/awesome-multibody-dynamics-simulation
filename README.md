@@ -42,7 +42,7 @@ A curated list of resources for multibody dynamics simulation
 
 * All's Well That Ends Well: Guaranteed Resolution of Simultaneous Rigid Body Impact (2017), E. Vouga et al. [[pdf](http://www.cs.utexas.edu/users/evouga/uploads/4/5/6/8/45689883/term-revised.pdf)]
 * Quadratic Contact Energy Model for Multi-impact Simulation (2015), T. Zhang et al. [[pdf](http://or.nsfc.gov.cn/bitstream/00001903-5/344688/1/1000014372636.pdf)]
-* Reflections on Simultaneous Impact (2012), B. Smith et al. [[pdf](http://ai2-s2-pdfs.s3.amazonaws.com/8b44/61a8591456866890d27eb1fa720f24c4a176.pdf)]
+* Reflections on Simultaneous Impact (2012), B. Smith et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.643.404&rep=rep1&type=pdf)]
 
 #### Non-uniform Coefficient of Restitution Model
 
