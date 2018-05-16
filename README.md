@@ -135,6 +135,10 @@ V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 * Interactive Simulation of Rigid Body Dynamics in Computer Graphics (2014), J. Bender et al. [[pdf](https://twiki.cs.rpi.edu/twiki/pub/RoboticsWeb/LabPublications/BETCstar_part1.pdf)]
 * A Survey on Position-Based Simulation Methods in Computer Graphics (2014), J. Bender et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.491.1850&rep=rep1&type=pdf)]
 
+### 10. Vehicle Dynamics
+
+* Terramechanics-based high-fidelity dynamics simulation for wheeled mobile robot on deformable rough terrain (2010), L. Ding et al. [[pdf](http://frl.niche.tohoku.ac.jp/pdf/2010-ICRA-DING-online.pdf)]
+
 ## Thesis
 
 * Discrete Mechanics and Optimal Control for Space Trajectory Design (2011), A. Moore. [[pdf](https://thesis.library.caltech.edu/6441/1/Moore_thesis.pdf)]
