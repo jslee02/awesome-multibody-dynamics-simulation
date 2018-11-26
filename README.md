@@ -10,7 +10,7 @@ A curated list of resources for multibody dynamics simulation
 
 * A Recursive Multibody Dynamics and Sensitivity Algorithm for Branched Kinematic Chains (2001), G Sohl and J. Bobrow. [[pdf](http://gram.eng.uci.edu/~bobrow/papers_files/ASME_Recursive_Garett.pdf)]
 * Coordinate-invariant Algorithms for Robot Dynamics (1999), S. Ploen and F. Park. [[pdf](http://robotics.snu.ac.kr/fcp/files/_pdf_files_publications/2_msd/coordinat-invariant_algorithm.pdf)]
-* A Lie Group Formulation of Robot Dynamics (1995), F. Park el al. [[pdf](http://roboticslab.snu.ac.kr/fcp/files/_pdf_files_publications/2_msd/a_lie_group_formulation_of_robot_dynamics.pdf)]
+* A Lie Group Formulation of Robot Dynamics (1995), F. Park et al. [[pdf](http://roboticslab.snu.ac.kr/fcp/files/_pdf_files_publications/2_msd/a_lie_group_formulation_of_robot_dynamics.pdf)]
 
 #### Geometric Integration
 
@@ -86,7 +86,7 @@ V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 #### Adaptive Time-stepping / Asynchronous Integration
 
 * A variational approach to multirate integration for constrained systems (2013), S. Leyendecker and S. Ober-Blobaum. [[pdf](http://www.ltd.tf.fau.de/Team/Leyendecker/Arxiv/LeyendeckerOber-Bloebaum_bookchapter13.pdf)]
-* Asynchronous Variational Integrators (2003), A. Lew el al. [[pdf](https://authors.library.caltech.edu/19592/1/LeMaOrWe2003.pdf)]
+* Asynchronous Variational Integrators (2003), A. Lew et al. [[pdf](https://authors.library.caltech.edu/19592/1/LeMaOrWe2003.pdf)]
 
 #### Stochastic Mechanics
 
@@ -108,7 +108,7 @@ V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 * XPBD: Position-Based Simulation of Compliant Constrained Dynamics (2016), M. Macklin et al. [[pdf](http://www.matthias-mueller-fischer.ch/publications/XPBD.pdf)]
 * Stable Constrained Dynamics (2015), M. Tournier et al. [[pdf](https://hal.inria.fr/hal-01157835/document)]
 * Position-Based Rigid Body Dynamics (2014), C. Deul et al. [[pdf](http://onlinelibrary.wiley.com/doi/10.1002/cav.1614/full)]
-* Projective Dynamics: Fusing Constraint Projections for Fast Simulation (2014), S. Bouaziz el al. [[pdf](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1160&context=hms)]
+* Projective Dynamics: Fusing Constraint Projections for Fast Simulation (2014), S. Bouaziz et al. [[pdf](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1160&context=hms)]
 * Position Based Dynamics (2007), M. Müller et al. [[pdf](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf)]
 
 ### 5. Deformable Body / Granular / Fluid Simulation
