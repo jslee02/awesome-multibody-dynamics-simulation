@@ -24,6 +24,7 @@ A curated list of resources for multibody dynamics simulation
 
 * Resolving Force Indeterminacy in Contact Dynamics Using Compatibility Conditions (2018), T. Olsen and K. Kamrin. [[pdf](https://arxiv.org/pdf/1805.07437.pdf)]
 * Posing Multibody Dynamics with Friction and Contact as a Differential Complementarity Problem (2018), D. Negrut et al. [[pdf](http://sbel.wisc.edu/documents/TR-2016-12.pdf)]
+* Analysis and Computation of Two Body Impact in Three Dimensions (2017), Y.-B. Jia and F. Yang. [[pdf](http://web.cs.iastate.edu/~jia/papers/CND17.pdf)]
 * Rigid Body Contact Problems using Proximal Operators (2017), K. Erleben. [[pdf](http://image.diku.dk/kenny/download/erleben.17a.pdf)]
 * Making a Meaningful Impact: Modelling Simultaneous Frictional Collisions in Spatial Multibody Systems (2015), T. Uchida et al. [[pdf](http://rspa.royalsocietypublishing.org/content/royprsa/471/2177/20140859.full.pdf)]
 * Performance of a Method for Formulating Geometrically Exact Complementarity Constraints in Multibody Dynamic Simulation (2015), D. Flickinger et al. [[pdf](https://www.researchgate.net/profile/Daniel_Flickinger/publication/274874514_Performance_of_a_Method_for_Formulating_Geometrically_Exact_Complementarity_Constraints_in_Multibody_Dynamic_Simulation/links/56b613b308ae44bb3307820a.pdf)]
