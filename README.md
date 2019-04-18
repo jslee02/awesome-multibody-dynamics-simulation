@@ -145,6 +145,10 @@ V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 
 * Integrated Longitudinal and Lateral Tire/Road Friction Modeling and Monitoring for Vehicle Motion Control (2006), L. Li et al. [[pdf](https://www.researchgate.net/profile/Fei_Yue_Wang/publication/3427949_Integrated_Longitudinal_and_Lateral_TireRoad_Friction_Modeling_and_Monitoring_for_Vehicle_Motion_Control/links/5a322b340f7e9b2a283779fd/Integrated-Longitudinal-and-Lateral-Tire-Road-Friction-Modeling-and-Monitoring-for-Vehicle-Motion-Control.pdf)]
 
+### 11. Cloth Simulation
+
+* I-Cloth: Incremental Collision Handling for GPU-Based Interactive Cloth Simulation (2018), M. Tang et al. [[project](I-Cloth: Incremental Collision Handling for GPU-Based Interactive Cloth Simulation)]
+
 ## Thesis
 
 * Discrete Mechanics and Optimal Control for Space Trajectory Design (2011), A. Moore. [[pdf](https://thesis.library.caltech.edu/6441/1/Moore_thesis.pdf)]
