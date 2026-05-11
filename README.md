@@ -1,8 +1,46 @@
 # Awesome Multibody Dynamics Simulation
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of resources for multibody dynamics simulation
 
-## Papers
+## Contents
+
+- [Papers](#papers)
+  - [1. Multibody Dynamics Formulation](#1-multibody-dynamics-formulation)
+    - [Geometric Formulation](#geometric-formulation)
+    - [Geometric Integration](#geometric-integration)
+    - [Inverse Dynamics](#inverse-dynamics)
+  - [2. Contact / Collision](#2-contact-collision)
+    - [Non-LCP based Methods](#non-lcp-based-methods)
+    - [Simultaneous Contact](#simultaneous-contact)
+    - [Non-uniform Coefficient of Restitution Model](#non-uniform-coefficient-of-restitution-model)
+  - [3. Discrete Mechanics / Variational Integrators](#3-discrete-mechanics-variational-integrators)
+    - [Core / Overview](#core-overview)
+    - [Geometric Formulation](#geometric-formulation)
+    - [High Order Convergence](#high-order-convergence)
+    - [Constrained Variational Integrators](#constrained-variational-integrators)
+    - [Multibody Dynamics](#multibody-dynamics)
+    - [Adaptive Time-stepping / Asynchronous Integration](#adaptive-time-stepping-asynchronous-integration)
+    - [Stochastic Mechanics](#stochastic-mechanics)
+    - [Trajectory Optimization / DMOC](#trajectory-optimization-dmoc)
+    - [ETC](#etc)
+  - [4. Position Based Dynamics](#4-position-based-dynamics)
+  - [5. Deformable Body / Granular / Fluid Simulation](#5-deformable-body-granular-fluid-simulation)
+  - [6. Inverse Kinematics](#6-inverse-kinematics)
+  - [7. Trajectory Optimization](#7-trajectory-optimization)
+  - [8. Applications](#8-applications)
+  - [9. Survey](#9-survey)
+  - [10. Vehicle Dynamics](#10-vehicle-dynamics)
+    - [Tire/Road model](#tireroad-model)
+  - [11. Cloth Simulation](#11-cloth-simulation)
+- [Thesis](#thesis)
+- [Slides / Lectures](#slides-lectures)
+- [Thesis](#thesis)
+- [Books](#books)
+- [Relevant Awesome Lists](#relevant-awesome-lists)
+
+## [Papers](#contents)
 
 ### 1. Multibody Dynamics Formulation
 
@@ -64,6 +102,7 @@ A curated list of resources for multibody dynamics simulation
 * Discrete Geometric Optimal Control on Lie Groups (2011), M. Kobilarov and J. Marsden. [[pdf](https://pdfs.semanticscholar.org/d294/0ce9a9bb1e569cb4ebb632e07db8d3255c08.pdf)]
 
 #### High Order Convergence
+
 * Surrogate Lagrangians for Variational Integrators: High Order Convergence with Low Order Schemes (20017), G. Torre and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.03883.pdf)]
 
 #### Constrained Variational Integrators
@@ -149,20 +188,20 @@ V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 
 * I-Cloth: Incremental Collision Handling for GPU-Based Interactive Cloth Simulation (2018), M. Tang et al. [[project](I-Cloth: Incremental Collision Handling for GPU-Based Interactive Cloth Simulation)]
 
-## Thesis
+## [Thesis](#contents)
 
 * Discrete Mechanics and Optimal Control for Space Trajectory Design (2011), A. Moore. [[pdf](https://thesis.library.caltech.edu/6441/1/Moore_thesis.pdf)]
 * Stable, Robust, and Versatile Multibody Dynamics Animation (2004), K. Erleben. [[pdf](https://www.researchgate.net/profile/Kenny_Erleben/publication/247635853_Stable_Robust_and_Versatile_Multibody_Dynamics_Animation/links/02e7e53c9330597986000000.pdf)]
 
-## Slides / Lectures
+## [Slides / Lectures](#contents)
 
 * Multibody Dynamics Animation, K. Erleben. [[pdf](https://pdfs.semanticscholar.org/1caa/aac6ddd5ffb0a13b36b10183beaadf1adca9.pdf)]
 
-## Thesis
+## [Thesis](#contents)
 
 * Variational Integrators (2004), M. West. [[pdf](https://thesis.library.caltech.edu/2492/1/west_thesis.pdf)]
 
-## Books
+## [Books](#contents)
 
 * Modern Robotics: Mechanics, Planning, and Control (2017), K. Lynch and F. Park. [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
 * Numerical Methods for Linear Complementarity Problems in Physics-Based Animation (2015), S. Niebe and K. Erleben. [[pdf](http://image.diku.dk/kenny/download/erleben.13.siggraph.course.notes.pdf)]
@@ -171,7 +210,7 @@ V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 * A Mathematical Introduction to Robotic Manipulation (1994), R. Murray et al. [[pdf](http://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)]
 * The Linear Complementarity Problem (1992), R. Cottle et al. [[web](http://epubs.siam.org/doi/abs/10.1137/1.9780898719000.bm)]
 
-## Relevant Awesome Lists
+## [Relevant Awesome Lists](#contents)
 
 * [Awesome Robotics (ahundt)](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics (Kiloreux)](https://github.com/Kiloreux/awesome-robotics)
@@ -179,6 +218,10 @@ V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 * [Awesome Collision Detection](https://github.com/jslee02/awesome-collision-detection)
 * [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)
 
-## License
+## [Contributing](#contents)
+
+Contributions are very welcome. Please read the [contribution guidelines](CONTRIBUTING.md) first. Also, please feel free to report any error.
+
+## [License](#contents)
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
